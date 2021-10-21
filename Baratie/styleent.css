@@ -1,0 +1,215 @@
+body{
+	background-image: url(background-seafood.jpg);
+	background-repeat: repeat;
+	background-size: 100%;
+}
+.subtitulo{
+	width: 100%;
+	text-align: center;
+	color: green;
+	background: white;
+	font-family: "Bilbo Swash Caps";
+	font-size: 35px;
+}
+.titulo{
+	width: 100%;
+	text-align: center;
+	color: green;
+}
+.conteudo{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center; 
+	justify-content: center; 
+	font-family: "Raleway";
+	font-size: 15px;
+}
+.descricao{
+	color: #800000;
+	background: #FFFFF0;
+	align-items: center;
+	text-align: center;
+	font-family: "Raleway";
+	font-size: 20px;
+	margin: 40px;
+}
+.card{
+	background: #FFFFF0;
+    width: 345px;
+    margin: 10px;
+    box-shadow: 0px 2px 10px;
+    height: 430px;
+}
+.card-cabecalho{
+	margin:15px;
+}
+
+.card-titulo{
+	font-size: 20px;
+	font-family: "Raleway";
+	text-align: center;
+	color: orange;
+}
+.palavra-entradas{
+	font-family: "Bilbo Swash Caps";
+	font-size: 42px;
+	margin: 0%;
+	background-color:#800000 ;
+	color: white;
+}
+h1
+{
+	font-size: 45px;
+	font-family: "Bilbo Swash Caps", cursive;
+	text-align: center, top;
+	background-color: white;
+	color: #006400;
+}
+h3{
+	font-size: 37px;
+	font-family: "Bilbo Swash Caps", cursive;
+	text-align: center, top;
+	background-color: white;
+	color: #800000;
+}
+.card-corpo{
+	padding: 2px;
+	height: 60%;
+}
+.card-img{
+	width: 100%;
+}
+.card-rodape{
+	color: #000000;
+	padding: 0px;
+	text-align: center;
+	margin: 0%;
+}
+.menu-bara{
+    font-family: "Bilbo Swash Caps";
+    font-size: 29px;
+}
+.menu{
+    background: #800000;
+    height: 50px;
+    margin: 0%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 60px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    font-family: "Raleway";
+}
+.menu ul{
+    margin: 0%;
+    list-style: none;
+}
+.menu ul li{
+    display: inline;
+}
+.menu ul li a {
+    padding: 8px 10px;
+    display: inline-block;
+    color: #ffffff;
+    text-decoration: none;
+}
+.ancora:hover{
+    color: #FF7F50;
+}
+.menu-bara{
+	margin-left: 110px;
+	color: white;
+}
+.botao{
+	color: #ffffff;
+	border: none;
+}
+.btn-verde{
+	background: green;
+	margin-top: 20px;
+	margin: 5px;
+}
+.btn-azul{
+	background: LightSeaGreen;
+	margin-top: 20px;
+	margin: 5px;
+}
+.btn-laranja{
+	background: OrangeRed;
+	margin-top: 20px;
+	margin: 5px;
+}
+.btn-vermelho{
+	background: Maroon;
+	margin-top: 20px;
+	margin: 5px;
+}
+.btn-rosa{
+	background: tomato;
+	margin-top: 20px;
+	margin: 5px;
+}
+#botaoID{
+	color: #ffffff;
+	border: none;
+	background: magenta;
+	margin: 20px;
+}
+
+.copy{
+	color: green;
+	background: #FFFFF0;
+	width: auto;
+	margin-top: 100px;
+	align-items: center;
+	text-align: center;
+	font-family: "Raleway";
+	font-size: 20px;
+}
+.footer{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center; 
+	justify-content: center; 
+	font-family: "Raleway";
+	font-size: 15px;
+	background:#800000;
+	margin-left: 120px;
+	margin-right: 120px;
+	border-radius: 15px;
+	margin-top: 100px;
+}
+.card-head{
+	text-align: center;
+	font-family: "Bilbo Swash Caps";
+	font-size: 40px;
+	color: white;	
+}
+.card-body{
+	margin-left: 20px;
+	font-size: 17px;
+	color: white;
+}
+.card-footer{
+	width: 32%;
+    margin: 6px;
+	height: 320px;
+}
+.linha-vertical {
+	height:200px; 
+	border-left: 2px solid;
+	color: white;
+  }
+.card-body ul{
+	list-style: none;
+}
+.card-body ul li{
+	margin: 15px;
+}
+.title{
+	font-family: "Bilbo Swash Caps";
+}
+.valor{
+	margin-top: 20px;
+}
